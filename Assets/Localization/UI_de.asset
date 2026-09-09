@@ -1,0 +1,180 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI_de
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: 62c58d9adb0a343609445165a5be3652, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 59809718272
+    m_Localized: Spielen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1993836847104
+    m_Localized: Storch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11657563594752
+    m_Localized: Prototyp Vogel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12049101873152
+    m_Localized: Gleitender Vogel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 249237425086464
+    m_Localized: Spiel Vorbei
+    m_Metadata:
+      m_Items: []
+  - m_Id: 249320740741120
+    m_Localized: Keine Leben mehr!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 272332064022528
+    m_Localized: Keine Munition mehr!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 280712040144896
+    m_Localized: Nochmal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 280757669978112
+    m_Localized: "Hauptmen\xFC"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 283645381173248
+    m_Localized: Punktzahl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 283697583480832
+    m_Localized: Zielgenauigkeit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 283749408301056
+    m_Localized: Artenkenntnis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1449348402503680
+    m_Localized: Waffen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1449732172931072
+    m_Localized: Einstellungen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1798524315361280
+    m_Localized: Garten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1798564748451840
+    m_Localized: Wald
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1810311467229184
+    m_Localized: "Ausw\xE4hlen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1810412558344192
+    m_Localized: Pistole
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1810459463245824
+    m_Localized: Gewehr
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1810490081665024
+    m_Localized: Sturmgewehr
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2127812507983872
+    m_Localized: Willkommen!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2127905697030144
+    m_Localized: "Dieses Tutorial f\xFChrt dich in die Basismechaniken des Spiels
+      \"Birds and Bullets\" ein. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2128865894850560
+    m_Localized: Weiter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2141605329887232
+    m_Localized: Tippe einen Vogel an, um ihn abzuschiessen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2144199943118848
+    m_Localized: Hier wird die Artbezeichnung des zu erschiessenden Vogels angezeigt.
+      Versuche nun den richtigen Vogel zu erschiessen!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2146615597981696
+    m_Localized: Erschiesse nun den richtigen Vogel!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2152327342448640
+    m_Localized: "Wenn du daneben schiesst, wird dir Munition abgezogen. Dir stehen
+      insgesamt 12 Kugeln zur Verf\xFCgung. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2152366643077120
+    m_Localized: Wenn du den falschen Vogel abschiesst, verlierst du ein Leben. Insgesamt
+      hast du drei Leben.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2155337355354112
+    m_Localized: Tutorial beendet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2155396776058880
+    m_Localized: "Du hast das Tutorial erfolgreich beendet und bist nun bereit f\xFCr
+      das richtige Spiel. Viel Erfolg!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2178733245980672
+    m_Localized: "Rabenkr\xE4he"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2482517729861632
+    m_Localized: Kaiserpinguin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2753555399172096
+    m_Localized: Schneeule
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2753616241745920
+    m_Localized: "Winterv\xF6gel"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3614793150750720
+    m_Localized: "Wei\xDFkopfseeadler"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3621472974135296
+    m_Localized: Stockente
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3636404650237952
+    m_Localized: Amsel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3640858162225152
+    m_Localized: Wiese
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

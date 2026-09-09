@@ -1,0 +1,24 @@
+# Written by MakeHuman 1.2.1 alpha
+version v1.2.1
+name girly
+camera 9.0 244.5 0.02647736355544914 0.5317921310813587 0.49291142125313087 2.8249999999999997
+modifier breast/BreastSize 0.500000
+modifier breast/BreastFirmness 0.500000
+modifier macrodetails/Gender 0.000000
+modifier macrodetails/Age 0.500000
+modifier macrodetails/African 0.333333
+modifier macrodetails/Asian 0.333333
+modifier macrodetails/Caucasian 0.333333
+modifier macrodetails-universal/Muscle 0.500000
+modifier macrodetails-universal/Weight 0.500000
+modifier macrodetails-height/Height 0.500000
+modifier macrodetails-proportions/BodyProportions 0.500000
+skeleton game_engine.mhskel
+eyes HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6
+pose tpose.bvh
+clothes LongFingernails-BlueButterfly f7bb12c8-9534-4c09-b708-f8fc0266c54c
+clothes female_casualsuit01 a8b0e841-144b-4f03-8b9e-ea8fdce8c863
+clothesHideFaces True
+skinMaterial skins/default.mhmat
+material HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6 eyes/materials/brown.mhmat
+subdivide False

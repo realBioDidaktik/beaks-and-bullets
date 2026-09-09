@@ -1,0 +1,180 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UI Shared Data
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.SharedTableData
+  m_TableCollectionName: UI
+  m_TableCollectionNameGuidString: 62c58d9adb0a343609445165a5be3652
+  m_Entries:
+  - m_Id: 59809718272
+    m_Key: play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1993836847104
+    m_Key: stork
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11657563594752
+    m_Key: proto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12049101873152
+    m_Key: balde
+    m_Metadata:
+      m_Items: []
+  - m_Id: 249237425086464
+    m_Key: gameOver
+    m_Metadata:
+      m_Items: []
+  - m_Id: 249320740741120
+    m_Key: hp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 272332064022528
+    m_Key: ammo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 280712040144896
+    m_Key: retry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 280757669978112
+    m_Key: menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 283645381173248
+    m_Key: score
+    m_Metadata:
+      m_Items: []
+  - m_Id: 283697583480832
+    m_Key: accuracy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 283749408301056
+    m_Key: knowledge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1449348402503680
+    m_Key: weapons
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1449732172931072
+    m_Key: settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1798524315361280
+    m_Key: garden
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1798564748451840
+    m_Key: forest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1810311467229184
+    m_Key: choose
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1810412558344192
+    m_Key: pistol
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1810459463245824
+    m_Key: rifle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1810490081665024
+    m_Key: ak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2127812507983872
+    m_Key: welcome
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2127905697030144
+    m_Key: welcome-text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2128865894850560
+    m_Key: next
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2141605329887232
+    m_Key: tap-to-shoot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2144199943118848
+    m_Key: text-bird-name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2146615597981696
+    m_Key: shoot-correct
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2152327342448640
+    m_Key: miss-shot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2152366643077120
+    m_Key: tut-wrong-bird
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2155337355354112
+    m_Key: goodbye
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2155396776058880
+    m_Key: goodbye-text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2178733245980672
+    m_Key: crow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2482517729861632
+    m_Key: penguin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2753555399172096
+    m_Key: hedwig
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2753616241745920
+    m_Key: winterbirds
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3614793150750720
+    m_Key: baldeagle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3621472974135296
+    m_Key: mallard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3636404650237952
+    m_Key: t_merula
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3640858162225152
+    m_Key: grass
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 4542126940710502680
+  references:
+    version: 2
+    RefIds:
+    - rid: 4542126940710502680
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1781900965690

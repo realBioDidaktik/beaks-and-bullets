@@ -1,0 +1,180 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI_en
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 62c58d9adb0a343609445165a5be3652, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 59809718272
+    m_Localized: Play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1993836847104
+    m_Localized: Stork
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11657563594752
+    m_Localized: Proto Bird
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12049101873152
+    m_Localized: Gliding Bird
+    m_Metadata:
+      m_Items: []
+  - m_Id: 249237425086464
+    m_Localized: Game Over
+    m_Metadata:
+      m_Items: []
+  - m_Id: 249320740741120
+    m_Localized: No more health points!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 272332064022528
+    m_Localized: No ammunition left!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 280712040144896
+    m_Localized: Retry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 280757669978112
+    m_Localized: Main menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 283645381173248
+    m_Localized: Score
+    m_Metadata:
+      m_Items: []
+  - m_Id: 283697583480832
+    m_Localized: Accuracy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 283749408301056
+    m_Localized: Knowledge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1449348402503680
+    m_Localized: Weapons
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1449732172931072
+    m_Localized: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1798524315361280
+    m_Localized: Garden
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1798564748451840
+    m_Localized: Forest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1810311467229184
+    m_Localized: Choose
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1810412558344192
+    m_Localized: Pistol
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1810459463245824
+    m_Localized: Rifle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1810490081665024
+    m_Localized: Assault Rifle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2127812507983872
+    m_Localized: Welcome!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2127905697030144
+    m_Localized: This tutorial introduces the fundamental concepts of the game 'Beaks
+      and Bullets'.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2128865894850560
+    m_Localized: Next
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2141605329887232
+    m_Localized: 'Tap a bird to shoot it down. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2144199943118848
+    m_Localized: The target bird's name will be shown here. Try to shoot down the
+      correct bird for now!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2146615597981696
+    m_Localized: Shoot down the correct bird!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2152327342448640
+    m_Localized: If you miss your shot, you will loose ammunition. You have 12 bullets
+      in total.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2152366643077120
+    m_Localized: 'If you kill the wrong bird, you will loose one hearth. In total
+      you have three health points. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2155337355354112
+    m_Localized: Tutorial finished
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2155396776058880
+    m_Localized: You have finished the tutorial and are ready for the main game.
+      Good Luck!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2178733245980672
+    m_Localized: Carrion Crow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2482517729861632
+    m_Localized: Emperor Penguin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2753555399172096
+    m_Localized: Snow Owl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2753616241745920
+    m_Localized: Winter Birds
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3614793150750720
+    m_Localized: Bald Eagle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3621472974135296
+    m_Localized: Mallard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3636404650237952
+    m_Localized: Common Blackbird
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3640858162225152
+    m_Localized: Grass Land
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
